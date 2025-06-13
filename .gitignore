@@ -1,1 +1,1 @@
-# Python__pycache__/*.py[cod]*.env*.sqlite3*.db*.log# Virtual Environmentvenv/ENV/env/# VSCode.vscode/# OS files.DS_StoreThumbs.db
+# Python__pycache__/*.py[cod]*.env*.sqlite3*.db*.log# Virtual Environmentvenv/ENV/env/# VSCode.vscode/# OS files.DS_StoreThumbs.dbvenv/__pycache__/*.pyc
